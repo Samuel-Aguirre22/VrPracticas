@@ -36,7 +36,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4710975c7840e7d499bbb3757c22b0a5, type: 3}
   m_Name: MetaXRSubsampledLayout Android
   m_EditorClassIdentifier: Oculus.VR::Meta.XR.MetaXRSubsampledLayout
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Meta XR Subsampled Layout
   version: 0.0.1
   featureIdInternal: com.meta.openxr.feature.subsampledLayout
@@ -1275,7 +1275,7 @@ MonoBehaviour:
   - {fileID: -531090575676957562}
   - {fileID: -2660391120707936567}
   - {fileID: 5888295723554478943}
-  - {fileID: -6455967644940791139}
+  - {fileID: 3180483435280725750}
   - {fileID: 389877569075492042}
   - {fileID: -5324675719268075470}
   - {fileID: -1353864135660226589}
@@ -1291,7 +1291,7 @@ MonoBehaviour:
   - {fileID: 3400547063072020274}
   - {fileID: 4808728528319628752}
   - {fileID: 2330078538759678532}
-  - {fileID: -8996309531996719807}
+  - {fileID: 1166246792963714832}
   - {fileID: 408515971441925977}
   - {fileID: -636281889162395598}
   - {fileID: -8612089273781230877}
@@ -1587,7 +1587,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4710975c7840e7d499bbb3757c22b0a5, type: 3}
   m_Name: MetaXRSubsampledLayout Android
   m_EditorClassIdentifier: Oculus.VR::Meta.XR.MetaXRSubsampledLayout
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Meta XR Subsampled Layout
   version: 0.0.1
   featureIdInternal: com.meta.openxr.feature.subsampledLayout
@@ -1843,7 +1843,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1927c045052a06d49a9b21fdcaa26db6, type: 3}
   m_Name: MetaXRFeature Standalone
   m_EditorClassIdentifier: Oculus.VR::Meta.XR.MetaXRFeature
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Meta XR Feature
   version: 0.0.1
   featureIdInternal: com.meta.openxr.feature.metaxr
@@ -2525,11 +2525,11 @@ MonoBehaviour:
   m_Name: HPReverbG2ControllerProfile Standalone
   m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.Features.Interactions.HPReverbG2ControllerProfile
   m_enabled: 0
-  nameUi: 
-  version: 
-  featureIdInternal: 
-  openxrExtensionStrings: 
-  company: 
+  nameUi: HP Reverb G2 Controller Profile
+  version: 0.0.1
+  featureIdInternal: com.unity.openxr.feature.input.hpreverb
+  openxrExtensionStrings: XR_EXT_hp_mixed_reality_controller
+  company: Unity
   priority: 0
   targetOpenXRApiVersion: 
   required: 0
@@ -2744,35 +2744,35 @@ MonoBehaviour:
   features:
   - {fileID: 7234803230690028084}
   - {fileID: 686093934326879057}
-  - {fileID: 5673358831441963700}
+  - {fileID: 6105858501693938888}
   - {fileID: 1973446462457406538}
-  - {fileID: -4145502239295365040}
-  - {fileID: 2185187790311181796}
+  - {fileID: 9216051948169087484}
+  - {fileID: 6400431379960459183}
   - {fileID: 6124240914020474954}
   - {fileID: -4119315647759733884}
-  - {fileID: -4220437423480007990}
+  - {fileID: 7160255308921758062}
   - {fileID: 5537292747793763947}
-  - {fileID: 6102195698038002313}
+  - {fileID: 6315901897261628979}
   - {fileID: 8932346054529353987}
   - {fileID: 1154628021728404041}
   - {fileID: -2033862381615272081}
-  - {fileID: 5312998121589415905}
+  - {fileID: 5821508644029690195}
   - {fileID: -4135611425768036361}
   - {fileID: 8628833499464319519}
   - {fileID: 1392529301681827152}
-  - {fileID: -343026035633203396}
+  - {fileID: 2634215741355355602}
   - {fileID: 2160585080777198418}
-  - {fileID: 4986356718434507158}
+  - {fileID: 5634139155582554965}
   - {fileID: -6052087257096255670}
   - {fileID: 372475080585836647}
   - {fileID: 8239411980538150743}
-  - {fileID: 4346457153279097795}
-  - {fileID: -2213201051983546086}
-  - {fileID: -5398194985267327025}
+  - {fileID: 6676472713387438160}
+  - {fileID: 2854839181383143832}
+  - {fileID: 109078947263022702}
   - {fileID: -8281983690707806064}
   - {fileID: -2354053534637144707}
   - {fileID: 495793522463471023}
-  - {fileID: -2533130107612617737}
+  - {fileID: 8528441911343683800}
   customLoaderName: 
   m_renderMode: 1
   m_latencyOptimization: 0
